@@ -1,1 +1,2 @@
+#By using PiglinHost you agree to Mojang's EULA - https://www.minecraft.net/en-us/eula
 eula=true
